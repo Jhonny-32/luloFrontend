@@ -16,7 +16,5 @@
 - Comando para limpiar el proyecto: ./gradlew clean test
 - Comando para ejecutar por Feature: ./gradlew test --tests "co.com.screenplay.lulo.runner.TestRunner"
 - Comando para ejecutar todos los Features: ./gradlew test --tests "co.com.screenplay.lulo.runner"
-- Framework: gherkin, cucumber, Junit, SerenityBDD, selenium
-- Lenguaje programacion: Java
 <Br>
 <p align="center">
